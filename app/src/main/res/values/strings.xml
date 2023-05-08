@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Web777</string>
+
+    <!--"Thanks for downloading!" first run dialog-->
+    <string name="first_launch_title">ยินดีต้อนรับ!</string>
+
+    <string name="default_notification_channel_id">แจ้งเตือน</string>
+
+    <string name="first_launch_message">ขอบคุณที่ดาวน์โหลดแอป!</string>
+
+    <!--Dialog buttons-->
+    <string name="later">ภายหลัง</string>
+    <string name="no">ไม่</string>
+    <string name="yes">ใช่</string>
+
+    <!--"Rate this app" dialog-->
+    <string name="rate_title">ถ้าคุณชอบแอปของเรา?</string>
+    <string name="rate_message">กรุณาสละเวลาสักครู่ ให้คะแนนแอปเรานะ.</string>
+    <string name="rate">ให้คะแนนเราเลย</string>
+
+    <!--"Rate this app" dialog-->
+    <string name="facebook_title">ติดต่อเรา</string>
+    <string name="facebook_message">รู้จักเราผ่านเฟสบุค?</string>
+
+    <!--Offline screen-->
+    <string name="offline_message_1">อินเตอร์เน็ตช้า?</string>
+    <string name="offline_message_2">ตรวจสอบ wifi และสัญญาณเน็ต.</string>
+    <string name="try_again">ลองอีกครั้ง</string>
+
+    <!--"No connection" dialog-->
+    <string name="no_connection_title">การเชื่อมต่อล้มเหลว</string>
+    <string name="no_connection_message">ตรวจสอบอินเตอร์เน็ต</string>
+    <string name="title_activity_show_web_view">เว็บ 777</string>
+
+    <!--"Do you want to exit this app?" dialog-->
+    <string name="exit_app_dialog">"ต้องการออกจากแอปใช่ไหม?"</string>
+
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>  <!-- Official AdMob Test ID: ca-app-pub-3940256099942544~3347511713-->
+    <string name="banner_footer">ca-app-pub-3940256099942544/6300978111</string>  <!-- Official AdMob Test ID: ca-app-pub-3940256099942544/6300978111-->
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>  <!-- Official AdMob Test ID: ca-app-pub-3940256099942544/1033173712-->
+
+    <!--Facebook Ads IDs-->
+    <string name="facebook_banner_footer">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>  <!-- Official Facebook Banner Ad Test ID: IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID-->
+    <string name="facebook_interstitial_full_screen">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>  <!-- Official Facebook Interstitial Fullscreen Ad Test ID: IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID-->
+
+    <!--App Links URL scheme-->
+    <string name="deeplinking">Web777</string>
+
+    <string name="local_notification_channel_name">Local channel</string>
+    <string name="local_notification_channel_description">Used to display local notifications</string>
+    <string name="local_notification_channel_id">Local notification</string>
+
+    <string name="msg_subscribed">Subscribed to Firebase push channel topic</string>
+
+    <string name="msg_subscribe_failed">Failed to subscribe to Firebase push channel topic</string>
+</resources>
